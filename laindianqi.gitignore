@@ -1,0 +1,17 @@
+# 排除编译生成文件
+build/
+dist/
+*.spec
+
+# 排除虚拟环境
+venv/
+pycharm11/
+
+# 排除IDE配置
+.idea/
+__pycache__/
+*.iml
+
+# 排除临时文件
+*.log
+*.exe
