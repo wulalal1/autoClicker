@@ -7,9 +7,7 @@
 - 实时状态显示
 ## 功能特性
 ### 下载链接
-https://github.com/wulalal1/autoClicker/releases \n
-里面有Assets点击hack.exe
-
+https://github.com/wulalal1/autoClicker/releases->里面有Assets点击hack.exe
 ### 基础功能
 - 🕹 **精准点击控制**
   - 可调节点击间隔 (0.1秒~60秒)
