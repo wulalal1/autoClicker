@@ -34,7 +34,7 @@
   - Windows打包exe
   - macOS/Linux可源码运行
 
-##如何运行
+### 如何运行
 -打开dist->运行hack.exe
 ##操作步骤
     -基本设置
@@ -42,12 +42,12 @@
     -输入框	输入点击间隔（建议≥0.1秒）
     -下拉菜单	选择鼠标按键
 
-##开发者操作
+### 开发者操作
 -git clone https://github.com/wulalal1/autoClicker.git
-##安装依赖
+### 安装依赖
 -pip install pyautogui tkinter keyboard
-##运行
+### 运行
 -python hack.py
-##图标显示异常
+### 图标显示异常
 手动指定图标路径
 -python hack.py --icon custom_icon.ico
