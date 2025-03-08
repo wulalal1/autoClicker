@@ -34,7 +34,7 @@
 
 ### 普通用户
 1. 访问 [Releases 页面](https://github.com/wulalal1/autoClicker/releases)
-2. 在 Assets 中下载最新版
+2. 在 Assets 中下载最新版 "autoClicker.exe"
 3. 右键文件 → 属性 → 勾选"解除锁定"
 4. 双击运行即可使用
 
@@ -44,7 +44,8 @@
 git clone https://github.com/wulalal1/autoClicker.git
 
 # 安装依赖
-pip install 
+# 在PyCharm Terminal中安装依赖
+pip install pyinstaller pyautogui pillow keyboard
 
 # 运行程序
 python hack.py
