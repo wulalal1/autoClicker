@@ -44,10 +44,10 @@
 git clone https://github.com/wulalal1/autoClicker.git
 
 # 安装依赖
-pip install -r requirements.txt
+pip install 
 
 # 运行程序
-python src/main.py
+python hack.py
 
 # 打包可执行文件
-pyinstaller --onefile --noconsole --icon=assets/icon.ico src/main.py
+pyinstaller --onefile --noconsole --icon=assets/icon.ico src/hack.py
